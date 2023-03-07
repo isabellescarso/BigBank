@@ -1,5 +1,5 @@
 # BIG BANK
-Projeto desenvolvimento para a disciplina de Algoritmos e Programação cursada no primeiro semestre de Engenharia de Computação na Facens em 2022.
+Projeto desenvolvido para a disciplina de Algoritmos e Programação cursada no primeiro semestre de Engenharia de Computação na Facens em 2022.
 
 O projeto consiste em um programa desenvolvido em linguagem C que simula uma plataforma bancária online, na qual é possível consultar saldo, realizar transferências, fazer investimentos, pagar contas, fazer empréstimo e solicitar cartões de débito e crédito.
 
